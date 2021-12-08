@@ -1,4 +1,3 @@
-//index number : 19020236
 //Developing a web server.
 
 //This server can be executed in linux environment
